@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1422177281 source:c:\users\mansu_000\documents\codeblocks\projects\5.fasta\main.cpp
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<stack>
+	<string>
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<vector>
+
